@@ -31,12 +31,12 @@ if(isset($_POST["Submit"])){
     $mail->isSMTP();
     $mail->Host = "smtp.gmail.com";
     $mail->SMTPAuth = true;
-    $mail->Username = "iamlouisereyes123@gmail.com";//gagamitin pang send ng email
-    $mail->Password = "gvdhbalxqzrrmobp";
+    $mail->Username = "christreyes00@gmail.com";//gagamitin pang send ng email
+    $mail->Password = "wjydjuqzzodytbsq";
     $mail->SMTPSecure = "tsl";
     $mail->Port = 587;
 
-    $mail->setFrom("iamlouisereyes123@gmail.com","IGME WATERCRAFT SPECIALIST INC.");
+    $mail->setFrom("christreyes00@gmail.com","IGME WATERCRAFT SPECIALIST INC.");
 
     $mail->addAddress($email); // change to my email
     $mail->isHTML(true);
