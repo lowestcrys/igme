@@ -20,7 +20,7 @@ if(isset($_POST["Submit"])){
         <p> Good Day! <strong> '. $name.'! </strong></p>
         <p>Thank you for your feedback!</p>
         <br>
-        A flower a day makes a brighter day!<br>
+       Hello! !<br>
         <strong></b>IGME WATERCRAFT SPECIALIST INC.</strong>
 
     </body>
