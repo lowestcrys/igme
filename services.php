@@ -87,9 +87,9 @@ i#next {
         <div class="carousel">
           <img src="product.jpg" alt="" />
           <img src="building.jpg" alt="" />
-          <img src="rental.jpg" alt="" />
-          <img src="repairing.jpg" alt="" />
           <img src="cleaning.jpg" alt="" />
+          <img src="repairing.jpg" alt="" />
+          <img src="rental.jpg" alt="" />
         </div>
         <i class="fa-solid fa-arrow-right button" id="next"></i>
       </div>

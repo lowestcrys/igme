@@ -75,7 +75,7 @@ i#next {
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Image Slider JavaScript | CodingNepal</title>
+    <title>IGME</title>
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
     <script src="script.js" defer></script>
@@ -86,8 +86,8 @@ i#next {
       <div class="image-container">
         <div class="carousel">
           <img src="product.jpg" alt="" />
-          <img src="building.jpg" alt="" />
           <img src="rental.jpg" alt="" />
+          <img src="building.jpg" alt="" />
           <img src="repairing.jpg" alt="" />
           <img src="cleaning.jpg" alt="" />
         </div>
